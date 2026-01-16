@@ -1,16 +1,23 @@
 # weather_app
 
-A new Flutter project.
+## 🌦️ Flutter Project Showcase | Weather Application
 
-## Getting Started
+I built a real-time Weather Application using Flutter, Dart, REST APIs, and Provider to understand API integration and state management in a practical way.
 
-This project is a starting point for a Flutter application.
+🔹 Key features of the app:
 
-A few resources to get you started if this is your first Flutter project:
+  • Real-time weather data using the OpenWeather API
+  
+  • Provider for efficient and clean state management
+  
+  • Smooth animations to enhance user experience
+  
+  • Well-formatted date, time, and weather data using the intl package
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📌 Feedback and suggestions are always welcome!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Live Preview
+
+
+https://github.com/user-attachments/assets/8805e577-0eeb-4223-a68b-8135e3c5e09d
+
